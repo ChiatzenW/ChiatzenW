@@ -1,4 +1,5 @@
 I breathed my sighs and moans haphazard-wise.
+[my blog/notes?](chiatzenw.github.io)
 <!--
 ### Hi there 👋
 
