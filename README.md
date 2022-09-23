@@ -1,10 +1,10 @@
 > I breathed my sighs and moans haphazard-wise. 
 > 
->                                             <cite>--Rostand</cite>
+>   <cite>--Edmon Rostand _Cyrano de Bergerrac Act II Scene 10_ </cite>
 
 > Man truly achieves his full human condition when he produces without being compelled by the physical necessity of selling himself as a commodity.
 > 
->                                            <cite>--Che Guevara</cite>
+>   <cite>--Che Guevara _Man and Socialism in Cuba_</cite>
 
 
 [my blog/notes?](https://chiatzenw.github.io/)
