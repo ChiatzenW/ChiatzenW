@@ -1,5 +1,8 @@
-I breathed my sighs and moans haphazard-wise. 
+> I breathed my sighs and moans haphazard-wise. 
+>                               --Rostand
 
+> Man truly achieves his full human condition when he produces without being compelled by the physical necessity of selling himself as a commodity.
+>                             --Che Guevara
 [my blog/notes?](https://chiatzenw.github.io/)
 <!--
 ### Hi there 👋
