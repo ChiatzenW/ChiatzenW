@@ -6,6 +6,8 @@
 > 
 >   <cite>-- _Man and Socialism in Cuba_ , Che Guevara</cite>
 
+> "Leetcode gave me texter's thumb"
+
 
 [my blog/notes?](https://chiatzenw.github.io/)
 
