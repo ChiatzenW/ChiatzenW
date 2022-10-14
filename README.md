@@ -16,6 +16,6 @@
 
 ![](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fchiatzen_w)
 [![](https://img.shields.io/badge/discord-Chiatzen%232912-blueviolet)](https://discord.com/channels/@Chiatzen#2912)
-(![](https://img.shields.io/badge/email-mailto%3Achiatzen.wang%40mail.utoronto.ca-informational))(mailto:chiatzen.wang@mail.utoronto.ca)
+[![](https://img.shields.io/badge/email-mailto%3Achiatzen.wang%40mail.utoronto.ca-informational)](mailto:chiatzen.wang@mail.utoronto.ca)
 [![](https://img.shields.io/badge/LinkedIn-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchiatzen--wang--558116179%2F-blue)](https://www.linkedin.com/in/chiatzen-wang-558116179/)
 [![](https://img.shields.io/badge/StackExchange-https%3A%2F%2Fmeta.stackexchange.com%2Fusers%2F1269177%2Fchiatzen--w-important)](https://meta.stackexchange.com/users/1269177/chiatzen-w)
