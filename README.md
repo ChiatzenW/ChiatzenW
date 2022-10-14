@@ -13,3 +13,5 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiatzenW&count_private=true&show_icons=true&theme=tokyonight)
+
+![](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fchiatzen_w)
