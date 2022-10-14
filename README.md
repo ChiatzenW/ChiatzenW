@@ -16,3 +16,4 @@
 
 ![](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fchiatzen_w)
 ![](https://img.shields.io/badge/discord-Chiatzen%232912-blueviolet)
+![](https://img.shields.io/badge/email-mailto%3Achiatzen.wang%40mail.utoronto.ca-informational)
